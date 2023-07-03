@@ -53,11 +53,10 @@
 }
 
 .izq{
-	width: 900px;
+	width: 550px;
 	height: auto; overflow: hidden;
 	border: 1px solid #fff;
 	float: left;
-	margin-left: 280;
 	padding: 10px; color: #4682b4;
 }
 
